@@ -1,2 +1,1 @@
-# michal-bootcamp.github.io
-Sample Portfolio Page
+https://michal-bootcamp.github.io
